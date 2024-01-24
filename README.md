@@ -1,5 +1,5 @@
 # PaymentApp
-An application for payment methods management.
+An application for payment methods management with Angular and .Net.
 
 This project was generated with Angular CLI version 17.1.0.
 
